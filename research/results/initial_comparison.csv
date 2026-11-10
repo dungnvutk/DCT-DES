@@ -1,0 +1,7 @@
+scenario,severity,transport_immediate,transport_dct,queue_immediate,queue_dct,queue_informed,queue_dct_mean_wait_min,queue_informed_mean_wait_min
+urban,low,29.60557,29.60557,27.51809,27.33212,27.33212,27.475,27.475
+urban,moderate,18.74378,18.74686,15.71686,15.65685,16.25148,31.025,24.525
+urban,high,3.95555,6.30576,2.49735,5.65773,5.65773,28.625,28.625
+highway,low,26.88252,26.88252,24.23183,24.23183,24.23183,21.825,21.825
+highway,moderate,13.55220,15.43045,11.61846,14.28552,14.28552,21.600,21.600
+highway,high,1.03387,4.22435,0.86616,3.60263,3.84037,20.175,16.300
